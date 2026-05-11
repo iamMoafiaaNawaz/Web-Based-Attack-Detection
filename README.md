@@ -1,6 +1,6 @@
 # Web Attack Detection using Hybrid LSTM and Transformer Architecture
 
-## 1. Research Abstract
+## 1. Abstract
 This project presents the design and evaluation of a deep learning-based system for detecting malicious HTTP traffic[cite: 17]. The architecture integrates a Bidirectional Long Short-Term Memory (Bi-LSTM) network with a Transformer encoder to capture both sequential dependencies and global contextual patterns within HTTP requests[cite: 18]. Evaluated on the CSIC 2010 HTTP Dataset, the system achieves a 91% classification accuracy, demonstrating strong precision for attack detection (100%) and high recall for normal traffic identification (100%)[cite: 20].
 
 ## 2. Dataset Specification
@@ -67,4 +67,3 @@ Launch the interactive dashboard:
 `streamlit run app.py`
 
 ---
-**Allah Moafi (22F-3181)** **Department of Computer Science** **FAST National University of Computer and Emerging Sciences** [cite: 9, 10]
